@@ -27,6 +27,7 @@ int main()
     a.Display();
     b.Display();
 
+    system("pause");
     return 0;
 }
 
