@@ -33,12 +33,12 @@ Point::Point(const Point &p)    //定义复制构造函数
     cout << "Copy Initializing " << endl;
 }
 
-void display(Point p)   //Point类对象的引用作为函数的形参
+void display(Point p)   
 {
     p.Show();
 }
 
-void disp(Point &p)
+void disp(Point &p) //Point类对象的引用作为函数的形参
 {
     p.Show();
 }
