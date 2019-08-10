@@ -4,6 +4,7 @@ using namespace std;
 class Point{
     private :
         double x, y;
+        const double p;
 
     public:
         Point(){};
