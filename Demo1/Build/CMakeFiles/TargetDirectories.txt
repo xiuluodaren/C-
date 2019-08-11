@@ -1,0 +1,3 @@
+D:/C++Developer/workspace/Demo1/Build/CMakeFiles/Compile.dir
+D:/C++Developer/workspace/Demo1/Build/CMakeFiles/edit_cache.dir
+D:/C++Developer/workspace/Demo1/Build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++Developer/workspace/part5/Find.cpp
+equation.h
+D:/C++Developer/workspace/part5/equation.h
+
+D:/C++Developer/workspace/part5/equation.cpp
+equation.h
+D:/C++Developer/workspace/part5/equation.h
+
+D:/C++Developer/workspace/part5/equation.h
+iostream
+-
+cmath
+-
+
